@@ -1,6 +1,7 @@
 # todo-jieun
 
 > A Vue.js project
+> todoApp
 
 ## Build Setup
 
